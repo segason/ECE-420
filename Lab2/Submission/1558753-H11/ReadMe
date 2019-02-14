@@ -1,0 +1,12 @@
+Read me for ECE 420 Lab2
+Feb. 2019
+
+Content
+=====
+To compile all the server files all at once, run the "make all" command. 4 executables will be generated. For the primary
+implementation just run the "make" command.
+The server can be ran with the following expected command line parameters:
+
+./main [Size of Array] [IP Address] [Port Number]
+
+=====
